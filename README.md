@@ -1,6 +1,6 @@
 # The-House
 Text-based game playable on discord or in command promt
-![console image](https://cdn.discordapp.com/attachments/796810089713106966/831536043873271898/unknown.png)
+![console image](https://cdn.discordapp.com/attachments/796810089713106966/831536268466716712/unknown.png)
 ## How to play
 ### Discord
 You can join [my discord](https://discord.com/invite/4GtgYheGwM) to play there\
