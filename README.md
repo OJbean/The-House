@@ -11,7 +11,7 @@ Or you can host the bot yourself:
    * Linux/macOS: `python3 -m pip install -U discord.py` 
    * Windows: `py -3 -m pip install -U discord.py`
 3. Insert your bot token into `discord_bot.py` file
-4. Run `discord.py`
+4. Run `discord_bot.py`
 ### Command promt
 Get the latest release of Python [here](https://www.python.org/downloads/).\
 Run `game.py` to play!
