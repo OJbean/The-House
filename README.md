@@ -1,2 +1,2 @@
 # The-House
-The House Game
+Text-based game playable on discord or in command promt
